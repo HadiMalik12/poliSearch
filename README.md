@@ -1,7 +1,5 @@
 # poliSearch
 
-## Overview
-
 PoliSearch is a Python-based program designed to simplify the search for members of Congress based on various filters such as party, state, and house of representatives or senate affiliation. This tool leverages SQL and database files for efficient data management and incorporates HTML and CSS for a user-friendly front-end interface.
 
 ## Features
