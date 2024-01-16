@@ -11,6 +11,7 @@ PoliSearch is a Python-based program designed to simplify the search for members
 ## Requirements
 
 - Python
+- JavaScript
 - SQL Database
 - HTML
 - CSS
