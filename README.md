@@ -1,4 +1,4 @@
-# PoliSearch
+# poliSearch
 
 ## Description
 
